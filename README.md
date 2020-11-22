@@ -7,7 +7,7 @@
 
   - Nanjing Agricultural University - Computer Science and Technology
 
-  <img align="right" alt="img" src="https://ericamblog.oss-cn-shanghai.aliyuncs.com/2020/vg6zq5%20%281%29.png " width="50%" height="auto" />
+  <img align="right" alt="img" src="https://ericamblog.oss-cn-shanghai.aliyuncs.com/2020/vg6zq5%20%281%29.png" width="50%" height="auto" />
 
 
   #### 🌱 Things I am currently working on: 
