@@ -1,13 +1,5 @@
-- ### 十步一代码，千里不Bug 
-  ### I  am Ericam_!
-
-  ### Education experience
-
-  - Zhengzhou University - Electronic Information
-
-  - Nanjing Agricultural University - Computer Science and Technology
-
-
+### 十步一代码，千里不Bug 
+### I  am Ericam_!
 
   #### 🌱 Things I am currently working on: 
   - Finish my Electronic Information Master Degree  
